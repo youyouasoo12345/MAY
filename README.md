@@ -1,10 +1,4 @@
 
-🔹 # smile_TEAM
-🔹 # [porgramer2017](https://telegram.me/porgramer2017)
-
-
-🔸➖➖➖➖➖➖➖➖➖➖🔹
-
 💠 سہٖۧہﯢّرس مرتزقه المارينز يونس 
 
 💠 ٱلہٖۧلہٖٖغہٖٖہﮪّﮧ انہٖۧکگہٖۧلشہٖٖہ ﯠعہٖٖربہٖٖيہ
@@ -15,17 +9,10 @@
 
 💠 تہٰٰمہٰٰت اضہٰٰافہٰٰه اوامہٰٰر قہٰٰفہٰٰل ٱٰلہٰٰتعہٰٰديل وقہٰفہٰل الہٰٰتثبيتٰٰ والمزيہٰد"!
 
-💠 تہٰمہٰ تہٰطہٰويہٰر بہٰواسہٰطه 💗✌🏿"
-
-🚸 ابہٰو سہٰكہٰروب @iq_100k
-
-🚸 سہٰجہٰاد @iq_313k
-
-🚸 زخرفه ٱبو لقمان @IxXx_56_xXxI
 
 🔱 قہٰنہٰاه الہٰسہٰورس
 
-@porgramer2017
+@DEV_youyou
 
 🔸➖➖➖➖➖➖➖➖➖➖🔹
 
@@ -37,23 +24,23 @@ sudo apt-get update
 
 🔹" ثانيا
 
-git clone https://github.com/aboskroop/smilev2.git
+git clone https://github.com/youyouasoo12345/MAY.git
 
 🔹" ثالثا
 
-cd smilev2
+cd MAY
 
 🔹" رابعا
 
-chmod +x smile.sh
+chmod +x MAY.sh
 
 🔹" خامسا
 
-./smile.sh install
+./MAY.sh install
 
 🔹" سادسا
 
-./smile.sh
+./MAY.sh
 
 🔹"سابعا
 
@@ -66,14 +53,10 @@ redis-server
 
 📍او الكليشه التنصيب المختصره 👇🏻
 
-sudo apt-get update && git clone https://github.com/aboskroop/smilev2.git && cd smilev2 && chmod +x smile.sh && ./smile.sh install && ./smile.sh
+sudo apt-get update && git clone https://github.com/youyouasoo12345/MAY.git && cd MAY && chmod +x MAY.sh && ./MAY.sh install && ./MAY.sh
 
 🔹 وبلعافيه عليك 🔹
 
 
-من تكمل التنصيب تعال ضيف البوت هنا فحصه 📻
-
-https://t.me/joinchat/AAAAAECMzQJe8LtTbWmjGw
-
 🔸➖➖➖➖➖➖➖➖➖➖🔹
-🔹 [تابع جديدنا](t.me/porgramer2017)
+🔹 [تابع جديدنا](t.me/DEV_youyou)
